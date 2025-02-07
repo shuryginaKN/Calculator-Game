@@ -4,6 +4,7 @@ namespace shuryginaKN\calculator\Controller;
 
 use shuryginaKN\calculator\View;
 
-function startGame() {
+function startGame()
+{
     View\displayStartScreen();
 }
